@@ -1,1 +1,1 @@
-# Python-Project-
+# Pneumonia Detection using streamlit(Web application)
